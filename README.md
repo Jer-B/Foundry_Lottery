@@ -17,7 +17,7 @@ Click on function on the left to add them in the center of the page and interact
 Contract is deployed at xxxx
 [View on Sepolia]()
 
-It is a contract thats reate a proveably random smart contract lottery.
+It is a contract thats create a proveably random smart contract lottery.
 A true randomness. Can't cheat for guessing numbers or whatever can be usually guessed.
 
 I used the 32 hours long video from Cyfrin Foundry Blockchain course to learn about Foundry.  
